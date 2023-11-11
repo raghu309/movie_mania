@@ -1,4 +1,4 @@
-#Movie Mania
+###Movie Mania
 
 Can search for movies and TV shows by typing keywords in the search bar.
 
