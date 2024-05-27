@@ -1,6 +1,6 @@
 Movie Mania
 
-Open(Takes Time to Start) https://moviemania-dxhe.onrender.com/
+Link: https://moviemania-dxhe.onrender.com/
 
 Can search for movies and TV shows by typing keywords in the search bar.
 
